@@ -1,4 +1,6 @@
 # PCPOS 
-PCPOS Screen Shot
+
+![Proje Görseli](assets/PCPOS.png)
+
 
 
